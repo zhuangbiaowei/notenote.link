@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "148bbca52d570b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1384af5222fed0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/my-first-chinese-note.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "13817dd5d9f7ac3b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Obsidian integration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b91af9a5159f4323",
+    "type": "split",
+    "children": [
+      {
+        "id": "27eb9125458e121e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98b4ffc20803ec7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec8c993310328589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf817c0d313c6022",
+    "type": "split",
+    "children": [
+      {
+        "id": "70c1df0eaeb9ddac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b2b2f4d4d30007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/my-first-chinese-note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8e1384af5222fed0",
+  "lastOpenFiles": [
+    "_notes/my-first-chinese-note.md",
+    "_notes/Obsidian integration.md",
+    "_notes/How to use the special features.md",
+    "_notes/how-markdown-is-rendered.md",
+    "_notes/How-to-setup-this-site.md",
+    "_notes/我的第一条中文笔记.md"
+  ]
+}
