@@ -1,4 +1,4 @@
 ---
-title: Obsidian integration
+title: "Obsidian integration"
 tags: Obsidian
 ---

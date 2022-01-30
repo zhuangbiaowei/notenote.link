@@ -1,5 +1,5 @@
 ---
-title: 我的第一条中文笔记
+title: "My first note"
 tags: test
 ---
 
